@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Welcome">Willkommen bei der Anwendung</string>
+
+    <string name="app_name">Tic Tac Toe - 40325068Kursarbeit</string>
+
+    <string name="player_1">Spieler 1</string>
+
+    <string name="player_2">Spieler 2</string>
+
+    <string name="opensStatistics">Spieler Statistiken</string>
+
+    <string name="opensStartGame">Start</string>
+
+    <string name="menu">Menü</string>
+
+    <string name="saveScoresQuestion">"Möchten Sie Ergebnisse speichern?"</string>
+
+    <string name="save">Save</string>
+    <string name="back">Zurück</string>
+    <string name="returnToMainMenu">Zurück Zum Hauptmenü</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="backToGame">Zurück zum Spiel</string>
+    <string name="backToMainMenu">Zurück zum Hauptmenü</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="playerScore">Spieler Punkzahl</string>
+
+</resources>
